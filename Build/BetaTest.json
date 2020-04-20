@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Capstone 0.1",
+"productVersion": "0.1",
+"dataUrl": "BetaTest.data.unityweb",
+"asmCodeUrl": "BetaTest.asm.code.unityweb",
+"asmMemoryUrl": "BetaTest.asm.memory.unityweb",
+"asmFrameworkUrl": "BetaTest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
